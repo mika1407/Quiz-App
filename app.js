@@ -101,7 +101,7 @@ const questions = [
     ]
   },
   {
-    question: "Paljon on 2+2*3 ?",
+    question: "Paljon on 2 + 2 * 3 ?",
     answers: [
       { text: "12", correct: false },
       { text: "10", correct: false },
